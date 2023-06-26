@@ -523,6 +523,12 @@ footer em {
     margin-bottom: 30px;
   }
 
+  .service-content em {
+    color: #ff8e43;
+    font-weight: 600;
+    font-style: normal;
+  }
+
 }
 
 @media (min-width: 1200px) {
